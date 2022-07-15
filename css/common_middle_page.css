@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+#bg{
+    width: 148px;
+    height: 48px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-left: -74px;
+    margin-top: -24px;
+    z-index: 100;
+    background-color: rgba(0, 0, 0, .5);
+    color: #FFF;
+    line-height: 48px;
+    text-align: center;
+    border-radius: 3px;
+}
+a{
+    color: #20a8d8;
+}
+a:hover{
+    text-decoration: underline;
+}
+#icopy{
+    cursor: pointer;
+}
+
+
+body {
+    background: #eee;
+    font-size: 14px;
+}
+.scenograph {
+    padding: 16px 16px 0;
+}
+.scenograph #type-bimg {
+    box-shadow: 0px 4px 8px rgba(21, 0, 71, .1);
+    width: 100%;
+}
+.drugsword {
+    margin: 14px;
+    margin-top: 16px;
+    text-align: center;
+}
+.medicine-bag {
+    background: white;
+    border: 1px dashed #fb6a65;
+    padding: .5rem;
+    border-radius: 5px;
+}
+.copy-tip {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to right, #f9c492, #fb6a65);
+    color: white;
+    font-size: 12px;
+    height: 24px;
+}
+.jtone {
+    position: relative;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-left: 10px solid white;
+    border-bottom: 12px solid transparent;
+}
+.jtone::before {
+    content: "";
+    position: absolute;
+    top: -12px;
+    left: -13px;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-left: 10px solid #fab189;
+    border-bottom: 12px solid transparent;
+}
+.jttwo {
+    position: relative;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-left: 10px solid white;
+    border-bottom: 12px solid transparent;
+}
+.jttwo::before {
+    content: "";
+    position: absolute;
+    top: -12px;
+    left: -13px;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-left: 10px solid #fa9b7e;
+    border-bottom: 12px solid transparent;
+}
+.jtthree {
+    position: relative;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-left: 10px solid white;
+    border-bottom: 12px solid transparent;
+}
+.jtthree::before {
+    content: "";
+    position: absolute;
+    top: -12px;
+    left: -13px;
+    width: 0;
+    height: 0;
+    border-top: 12px solid transparent;
+    border-left: 10px solid #fa8673;
+    border-bottom: 12px solid transparent;
+}
+.icopy {
+    width:20%;
+    text-align:center;
+    background:#ff4402;
+    border:none;
+    border-radius:15px;
+    padding:0px 5px;
+    font-size:12px;
+    height:30px;
+    line-height:30px;
+    margin:10px auto;
+    color:#FFF;
+    padding:0 15px;
+    clear:both;
+    display:inline-block;
+    -webkit-user-select: none;
+}
+.nomen-proprium {
+    font-size: 12px;
+    text-align: left;
+    color: #fb6a65;
+}
+.kz-float-layer {
+    height: 0px!important;
+}
+.kz-float-layer {
+    display: none!important;
+}
