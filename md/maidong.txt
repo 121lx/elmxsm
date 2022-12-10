@@ -6,7 +6,7 @@
 		"officialWebsiteInformation": "官方资源破解Q群626346610",
 		"feedBack": "https://jq.qq.com/?_wv=1027&k=MGgdeUk4",
 		"officialGroupChat": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
-		"latestVersion": "1.5",
+		"latestVersion": "1.6",
 		"updateContent": "1.新增视频收藏，播放历史，视频快进，请更新至1.4版本rnrn如安装不了请先卸载老版本，rn地址：https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
 		"updateAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
 		"liveMode": "0",
