@@ -3,7 +3,7 @@
 		"startPicture": "http://md7.me/img/0.png",
 		"startAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
 		"startTime": "5",
-		"officialWebsiteInformation": "官方资源破解Q群626346610",
+		"officialWebsiteInformation": "脉动1.6",
 		"feedBack": "https://jq.qq.com/?_wv=1027&k=MGgdeUk4",
 		"officialGroupChat": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
 		"latestVersion": "1.6",
