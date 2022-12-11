@@ -1,455 +1,393 @@
 {
-    "code": "0",
-    "msg": "success",
-    "data": {
-        "versionConfig": {
-            "version": 1,
-            "versionContent": "版本已升级-修复已知BUG-优化视频内容-新版本发现BUG请在意见反馈处提交，我们会第一时间处理",
-            "isForce": "0",
-            "shareMode": "1",
-            "homeVideoName": "榴莲,美梦,秀色",
-            "webDownAppOne": "https://wwr.lanzoui.com/b02v3xu8d",
-            "webDownAppTwo": "https://wwp.lanzouq.com/b02vr4eyd",
-            "fanKuiDiZhi": "https://www.wenjuan.com/s/UZBZJvA92R",
-            "keFuDiZhi": "https://www.wenjuan.com/s/UZBZJvDSw4",
-            "hotSearchKeys": "混血,性感,萝莉,女神,制服,中出,巨乳,女同,办公室,道具,网红,剧情",
-            "hezuoContent": "ysy1暂不接广告",
-            "noticeTitle": "温馨提醒",
-            "noticeContent": "软件使用过程中遇到任何问题\n可在意见反馈处提交\n或联系客服\n请牢记雄哥：ygbh3.com",
-            "installPackage": "com.l60e5ee3c3.f171038527",
-            "installUrl": "https://mv757.com/"
+  "code": "0",
+  "msg": "success",
+  "data": {
+    "versionConfig": {
+      "version": 1,
+      "versionContent": "版本已升级-修复已知BUG-优化视频内容-新版本发现BUG请在意见反馈处提交，我们会第一时间处理",
+      "isForce": "0",
+      "shareMode": "1",
+      "homeVideoName": "榴莲,美梦,秀色",
+      "webDownAppOne": "http://6-y.cn/HMz425",
+      "webDownAppTwo": "http://6-y.cn/HMz425",
+      "fanKuiDiZhi": "https://xoicn.lanzouw.com/b04owv1ra",
+      "keFuDiZhi": "https://xoicn.lanzouw.com/b04owv1ra",
+      "hotSearchKeys": "混血,性感,萝莉,女神,制服,中出,巨乳,女同,办公室,道具,网红,剧情",
+      "hezuoContent": "广告联系微信lx4321521",
+      "noticeTitle": "温馨提醒",
+      "noticeContent": "官方广告合作，微信lx4321521",
+      "installPackage": "com.qzmf.apk6688",
+      "installUrl": "https://xoicn.lanzouw.com/im41A0ig58qj"
+    },
+    "startConfigDesc": "启动页广告-720*1280",
+    "startConfig": [
+      {
+        "imageUrl": "http://shp.qpic.cn/collector/1210500178/567a88e4-34cc-4511-85fe-46b15de33878/0",
+        "imageForward": "http://6-y.cn/HMz425"
+      }
+    ],
+    "shareContentDesc": "分享内容配置",
+    "dz1": "http://6-y.cn/HMz425",
+    "dz2": "http://6-y.cn/HMz425",
+    "dz3": "http://6-y.cn/HMz425",
+    "dz4": "http://6-y.cn/HMz425",
+    "shareContent": [
+      {
+        "content": ".全网福利资源,各种分类各种口味应有尽有，全网搜索,高清秒播,永久免费,点击下载分享链接① http://6-y.cn/HMz425  \n老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有，下载地址②：http://6-y.cn/HMz5Uz  \n下载地址③:https://xoicn.lanzouw.com/s/rjb   \n实用软件合集下载地址④:https://xoicn.lanzouw.com/s/rjbai"      },
+      {
+        "content": "..全网福利资源,各种分类各种口味应有尽有，全网搜索,高清秒播,永久免费,点击下载分享链接① http://6-y.cn/HMz425  \n老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有，下载地址②：http://6-y.cn/HMz5Uz  \n下载地址③:https://xoicn.lanzouw.com/s/rjb   \n实用软件合集下载地址④:https://xoicn.lanzouw.com/s/rjbai"       },
+      {
+        "content": ".全网福利资源,各种分类各种口味应有尽有，全网搜索,高清秒播,永久免费,点击下载分享链接① http://6-y.cn/HMz425  \n老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有，下载地址②：http://6-y.cn/HMz5Uz  \n下载地址③:https://xoicn.lanzouw.com/s/rjb   \n实用软件合集下载地址④:https://xoicn.lanzouw.com/s/rjbai"      },
+      {
+        "content": "...全网福利资源,各种分类各种口味应有尽有，全网搜索,高清秒播,永久免费,点击下载分享链接① http://6-y.cn/HMz425  \n老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有，下载地址②：http://6-y.cn/HMz5Uz  \n下载地址③:https://xoicn.lanzouw.com/s/rjb   \n实用软件合集下载地址④:https://xoicn.lanzouw.com/s/rjbai"      },
+      {
+        "content": ".全网福利资源,各种分类各种口味应有尽有，全网搜索,高清秒播,永久免费,点击下载分享链接① http://6-y.cn/HMz425  \n老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有，下载地址②：http://6-y.cn/HMz5Uz  \n下载地址③:https://xoicn.lanzouw.com/s/rjb   \n实用软件合集下载地址④:https://xoicn.lanzouw.com/s/rjbai"      }
+    ],
+    "bannersDesc": "首页轮播广告图-700*300",
+    "banners": [
+      {
+        "imageUrl": "https://i0.hdslb.com/bfs/album/b894eeca7ce807634a967ad209f99f2eff60df50.png",
+        "imageForward": "https://xoicn.lanzouw.com/im41A0ig58qj"
+      },
+      {
+        "imageUrl": "https://i0.hdslb.com/bfs/album/b973a69f68bd0b979e48c8b746a8c7e8def603c0.jpg",
+        "imageForward": "http://6-y.cn/HMz425"
+      }
+    ],
+    "adHomeListDesc": "首页列表广告配置-200*200",
+    "adHomeList": [
+      {
+        "adName": "假期赚钱",
+        "imageUrl": "http://shp.qpic.cn/collector/1766105000/afee2658-e2e4-4701-9b87-f6f76ee55e80/0",
+        "imageForward": "http://6-y.cn/HMAsi5"
+      },
+      {
+        "adName": "饿了么点餐",
+        "imageUrl": "http://shp.qpic.cn/collector/1766105000/b50ff3f0-8fe5-40f2-a2ab-980f600ca4d0/0",
+        "imageForward": "http://6-y.cn/HMAsDC"
+      },
+      {
+        "adName": "美团合集优惠",
+        "imageUrl": "http://shp.qpic.cn/collector/1766105000/bf5dcebf-f5d6-421e-ba92-c0801a22790b/0",
+        "imageForward": "https://tui-api.4rz.cn/#/pages/preferential/preferential?uid\u003d93557"
+      },
+      {
+        "adName": "熊盒子",
+        "imageUrl": "http://shp.qpic.cn/collector/1766105000/7ef060de-b07c-4986-b960-9035163ec4bb/0",
+        "imageForward": "http://6-y.cn/HMAMjD"
+      }
+    ],
+    "adListDesc": "列表广告配置-200*200",
+    "adList": [
+      {
+        "adName": "佳人直播-全国空降",
+        "imageUrl": "https://i0.hdslb.com/bfs/album/83894639ffdd53ba664a4a61d58799ddbc7ff356.jpg",
+        "imageForward": "http://6-y.cn/HMz425"
+      },
+      {
+        "adName": "诱惑直播",
+        "imageUrl": "https://i0.hdslb.com/bfs/album/5b8914b96e7c0ad70e819e464c0a6ab1d4585d8e.png",
+        "imageForward": "http://6-y.cn/HMz425"
+      },
+      {
+        "adName": "大秀成人直播",
+        "imageUrl": "https://i0.hdslb.com/bfs/album/6de98588d15224fc8a707cbe78ca32cc2ab85c09.png",
+        "imageForward": "http://6-y.cn/HMz425"
+      }
+    ],
+    "adPlaysDesc": "片头广告图-700*400",
+    "adPlays": [
+      {
+        "imageUrl": "https://i0.hdslb.com/bfs/album/e7b9520eb4eb5e48de38bc09e8e649d2fe361213.png",
+        "imageForward": "http://6-y.cn/HMz425"
+      },
+      {
+        "imageUrl": "https://i0.hdslb.com/bfs/album/49b94de22a2e139ae1899eeb9286d3fa742d2724.jpg",
+        "imageForward": "https://xoicn.lanzouw.com/b04owv1ra"
+      }
+    ],
+    "shortVideoHot": {
+      "name": "最新",
+      "searchPlayUrl": "",
+      "searchUrl": "http://app.xp/app_2/vodRedBook?limit\u003d10\u0026uid\u003d6900821"
+    },
+    "shortVideoNew": {
+      "name": "热门",
+      "searchPlayUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/minivod/reqplay/%s",
+      "searchUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/minivod/reqlist?_t\u003d1588697403168"
+    },
+    "homeHots": [
+      {
+        "id": "1002",
+        "name": "香蕉",
+        "desc": "aaa",
+        "tag": "香蕉",
+        "methor": "POST",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/3.png",
+        "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/3.png",
+        "searchPlayUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/vod/reqplay/%s",
+        "searchUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/",
+        "typeSearchUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/",
+        "typeIsSplite": "1",
+        "typeListName": "10_角色扮演,9_素人出演,0_全部影片,6_清纯少女,7_辣妹大奶,8_女同专属,5_制服誘惑,11_成人动漫,12_人妻熟女,13_变态另类,14_经典伦理"
+      },
+      {
+        "id": "10001",
+        "name": "速播",
+        "desc": "aaa",
+        "tag": "速播",
+        "methor": "GET",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/6.jpg",
+        "imageUrl": "https://pv-oa-huawei.gioita.net",
+        "searchPlayUrl": "https://pv-oa-huawei.gioita.net",
+        "searchUrl": "https://api.pv123.app/",
+        "typeSearchUrl": "https://api.pv123.app/",
+        "typeIsSplite": "1",
+        "typeListName": "1_美少女,2_青春荡漾,3_放浪女孩,4_辣妹大奶,5_无码,6_集体性爱,58_中文字幕,8_各行各业,9_欧美AV,10_制服诱惑,11_人妻熟女,12_不伦乱伦,13_妄想写真,14_偷拍自拍,15_三级剧情,16_性感内衣,17_按摩桑拿,18_当红女优,19_素人,21_角色扮演,22_第一人称,23_女大学生,24_深夜综艺,25_帝王温暖"
+      },
+      {
+        "id": "2001",
+        "name": "榴莲",
+        "desc": "aaa",
+        "tag": "榴莲",
+        "methor": "GET",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/1.jpg",
+        "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/1.jpg",
+        "searchPlayUrl": "https://api.xrkapi004.xyz/api/videoplay/%s?uuid\u003dfdfdsadasdass\u0026device\u003d0",
+        "searchUrl": "https://api.xrkapi004.xyz/",
+        "typeSearchUrl": "https://api.xrkapi004.xyz/",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部影片,30_小编推荐,52_国产剧情,10_国产自拍,1_高清无码,50_口交飲精,29_剧情,19_中文字幕,25_三级电影,32_外流视频,31_宅男福利,16_欧美AV,17_网红主播,21_翘臀美穴,11_长腿丝袜,45_淫亂職場,20_巨乳咪咪,4_角色扮演,40_師生淫亂,6_人妻熟女,14_H动漫,41_特工女警,42_護士醫生,43_近親相姦,24_AV素人,44_淫欲癡漢,48_有碼破壞,9_当红女优,5_制服诱惑,46_盜攝偷拍,33_明星专题,37_嫩模专区,36_259LUXU,22_青春萝莉,38_女同性爱,39_墨镜系列,23_重咸口味,51_ASMR系列"
+      },
+      {
+        "id": "2001",
+        "name": "美梦",
+        "desc": "aaa",
+        "tag": "美梦",
+        "methor": "GET",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/14.jpg",
+        "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/14.jpg",
+        "searchPlayUrl": "https://api.sgapi004.xyz/api/videoplay/%s?uuid\u003dfdfdsadasdass\u0026device\u003d0",
+        "searchUrl": "https://api.sgapi004.xyz/",
+        "typeSearchUrl": "https://api.sgapi004.xyz/",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部影片,49_近親亂倫,45_職場上司,46_淫亂師生,47_強姦輪姦,10_國產自拍,60_精彩热门,1_高清無碼,31_宅男福利,57_中文無碼,55_精彩短片,32_外流視頻,9_當紅女優,11_長腿絲襪,5_制服誘惑,6_人妻熟女,16_歐美AV,17_網紅主播,23_重鹹口味,14_H動漫,24_AV素人,29_AV劇情,37_嫩模專區,4_角色扮演,22_青春蘿莉,51_淫蕩癡女,30_絲瓜推薦,44_苍老师,20_巨乳咪咪,38_女同性愛,39_魔鏡系列,25_三級電影,40_明星淫梦,52_電車之狼,53_偷拍盜攝,54_萌妹醬篇,59_中外合拍,56_鹿少女集,58_扶她姐妹,35_恐怖情色"
+      },
+      {
+        "id": "2001",
+        "name": "快看",
+        "desc": "aaa",
+        "tag": "快看",
+        "methor": "GET",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/5.png",
+        "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/5.png",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "searchPlayUrl": "https://api.cmapi004.xyz/api/videoplay/%s?uuid\u003dfdfdsadasdass\u0026device\u003d0",
+        "searchUrl": "https://api.cmapi004.xyz/",
+        "typeSearchUrl": "https://api.cmapi004.xyz/",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部影片,28_國產自拍,64_性虐調教,63_自慰潮吹,57_家庭亂倫,65_3D动画,30_高清無碼,58_綠帽人妻,44_絕色佳人,36_AV歐美,37_網紅主播,33_制服誘惑,39_AV素人,32_H動漫,43_長腿絲襪,46_三級電影,52_草莓推薦,61_癡女淫娃,59_電車癡漢,62_精油汗汁,53_女同性爱,60_凌辱侵犯,56_明星淫夢,27_角色扮演,54_魔鏡系列,49_AV劇情,48_重鹹口味,38_美乳巨乳,66_人妖另类,51_恐怖情色,67_酒店偷拍,68_国产AV"
+      },
+      {
+        "id": "4001",
+        "name": "蜜蜂",
+        "desc": "aaa",
+        "tag": "蜜蜂",
+        "methor": "POST",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/9.png",
+        "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/9.png",
+        "searchPlayUrl": "http://az730099xj222.com/App/Movie/movieList?%s",
+        "searchUrl": "http://az730099xj222.com/",
+        "typeSearchUrl": "http://az730099xj222.com/",
+        "typeIsSplite": "1",
+        "typeListName": "0_最新影片,1_偷拍自拍,2_中文字幕,3_无码视频,4_高清有码,5_欧美大片,6_制服诱惑,7_网红主播"
+      },
+      {
+        "id": "4002",
+        "name": "秀色",
+        "desc": "aaa",
+        "tag": "秀色",
+        "methor": "POST",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/10.png",
+        "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/10.png",
+        "searchPlayUrl": "https://api.blapi004.xyz/api/v1/video/videoinfo?uuid\u003dca6eefa147e96f48\u0026device\u003d0",
+        "searchUrl": "https://api.blapi004.xyz/",
+        "typeSearchUrl": "https://api.blapi004.xyz/",
+        "typeIsSplite": "1",
+        "typeListName": "0_最新视频,58_國產精品,29_AV劇情,44_職場同事,30_芭樂推薦,5_制服誘惑,6_人妻熟女,42_巨乳美乳,48_激情女教師,17_網紅主播,14_H動漫,16_歐美AV,1_高清無碼,54_飞机篇,25_三級電影,10_國產自拍,22_癡女萌娘,47_無碼破壞版,9_名優薈萃,46_癡漢聯盟,55_DRP? 出品,24_业余素人,49_捆綁調教,45_禁忌亂倫,52_风俗按摩,51_少女萝莉,32_外流視頻,37_嫩模專區,11_長腿絲襪,57_自慰噴水,40_明星淫梦,53_盜攝偷拍,4_角色扮演,43_群交淫亂,23_重鹹口味,38_女同性愛,36_259LUXU,56_人妖偽娘"
+      },
+      {
+        "id": "xkd_videos",
+        "name": "蜜桃",
+        "desc": "aaa",
+        "tag": "蜜桃",
+        "methor": "LOCAL",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/11.png",
+        "imageUrl": "https://www.lpsuxd.com/",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "searchPlayUrl": "https://x-iaok-d55.com/api/index.m3u8?m3u8\u003dhttps://www.cljcqzz.com",
+        "searchUrl": "search%s",
+        "typeSearchUrl": "%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,10_国产精品,9_绝色佳人,43_家庭乱伦,51_国产AV,46_激情女教师,14_H动漫,35_人妻熟女,44_痴汉轮奸,37_制服诱惑,41_高清无码,25_三级电影,54_小编推荐,53_网红嫩模,40_美乳巨乳,47_绝顶痉挛,16_欧美激情,36_淫欲痴女,39_AV剧情,48_调教奴隶,50_女同性爱,38_风俗按摩,42_少女萝莉,52_偷拍盗摄"
+      },
+      {
+        "id": "hh_videos",
+        "name": "番茄",
+        "desc": "aaa",
+        "tag": "番茄",
+        "methor": "LOCAL",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/16.png",
+        "imageUrl": "https://www.lpsuxd.com/",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "searchPlayUrl": "https://sdghiosngldk.com/api/index.m3u8?m3u8\u003dhttps://www.hfkuangshanche.com",
+        "searchUrl": "search%s",
+        "typeSearchUrl": "%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,10_国产精品,9_当红女优,16_欧美激情,14_H动漫,46_激情女教师,25_三级电影,37_制服丝袜,35_人妻熟女,38_风俗按摩,40_美乳巨乳,47_绝顶痉挛,41_高清无码,42_少女萝莉,43_家庭乱伦,44_痴汉轮奸,36_淫荡痴女,39_AV戏剧"
+      },
+      {
+        "id": "qk_videos",
+        "name": "七彩",
+        "desc": "aaa",
+        "tag": "七彩",
+        "methor": "LOCAL",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/13.png",
+        "imageUrl": "https://www.lpsuxd.com/",
+        "isOpen": "1",
+        "haveSearch": "1",
+        "searchPlayUrl": "https://ewgabrielaconstantine.com/api/index.m3u8?m3u8\u003dhttps://www.hfkuangshanche.com",
+        "searchUrl": "search%s",
+        "typeSearchUrl": "%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,1_高清无码,35_国产AV,10_国产精品,14_H动漫,16_欧美激情,34_网红主播,18_家庭乱伦,5_制服诱惑,43_美乳巨乳,41_痴汉轮奸,23_重咸口味,44_女同性爱,25_三级电影,39_风俗按摩,36_痴女淫娃,40_AV剧情,9_绝色佳人,6_人妻熟女,38_绝顶潮吹,30_秋葵推荐,37_盗摄偷拍"
+      },
+      {
+        "id": "99999",
+        "name": "维护中",
+        "desc": "aaa",
+        "tag": "维护中",
+        "methor": "GET",
+        "isOpen": "0",
+        "haveSearch": "0",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/7.png",
+        "imageUrl": "",
+        "searchPlayUrl": "",
+        "searchUrl": "https://tr.olodool.com",
+        "typeSearchUrl": "https://tr.olodool.com",
+        "typeIsSplite": "1",
+        "typeListName": "110_角色扮演,111_成人动漫,112_人妻熟女"
+      },
+      {
+        "id": "WEB",
+        "name": "维护中",
+        "desc": "aaa",
+        "tag": "维护中",
+        "isVip": "0",
+        "isOpen": "0",
+        "haveSearch": "0",
+        "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/18.jpg",
+        "searchPlayUrl": "http://www.baidu.com"
+      }
+    ],
+    "areaItems": [
+      {
+        "id": "5001",
+        "name": "国产专区",
+        "desc": "aaa",
+        "tag": "国产专区",
+        "methor": "GET",
+        "isOpen": "1",
+        "imageUrl": "https://s.i438500.com/storage/",
+        "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video\u003d%s\u0026rate\u003d360",
+        "searchUrl": "https://app.zuo-app.com/api/app/search/data?page\u003d1\u0026keyword\u003d%s",
+        "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area\u003d1\u0026category\u003d%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,10_自拍偷拍,11_网红主播,12_美腿丝袜,13_群交多P,14_车震野战"
+      },
+      {
+        "id": "5001",
+        "name": "日本专区",
+        "desc": "aaa",
+        "tag": "日本专区",
+        "methor": "GET",
+        "isOpen": "1",
+        "imageUrl": "https://s.i438500.com/storage/",
+        "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video\u003d%s\u0026rate\u003d360",
+        "searchUrl": "https://app.zuo-app.com/api/app/search/data?page\u003d1\u0026keyword\u003d%s",
+        "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area\u003d2\u0026category\u003d%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,1_素人,2_清纯萝莉,3_熟女少妇,4_性感丝袜,6_巨乳,7_强奸轮奸,8_角色扮演,9_捆绑SM,32_美少女,33_群交多P,34_近亲相奸"
+      },
+      {
+        "id": "5001",
+        "name": "欧美专区",
+        "desc": "zoushou",
+        "tag": "欧美专区",
+        "methor": "GET",
+        "isOpen": "1",
+        "imageUrl": "https://s.i438500.com/storage/",
+        "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video\u003d%s\u0026rate\u003d360",
+        "searchUrl": "https://app.zuo-app.com/api/app/search/data?page\u003d1\u0026keyword\u003d%s",
+        "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area\u003d3\u0026category\u003d%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,15_唯美系列,16_黑人洋妞,17_双飞群P,18_女同性恋,19_内衣丝袜,30_欧美激情"
+      },
+      {
+        "id": "5001",
+        "name": "三级专区",
+        "desc": "zoushou",
+        "methor": "GET",
+        "tag": "三级专区",
+        "isOpen": "1",
+        "imageUrl": "https://cdn-zuo-app-storage.cdn.bcebos.com/storage/",
+        "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video\u003d%s\u0026rate\u003d360",
+        "searchUrl": "https://app.zuo-app.com/api/app/search/data?page\u003d1\u0026keyword\u003d%s",
+        "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area\u003d6\u0026category\u003d%s",
+        "typeIsSplite": "1",
+        "typeListName": "0_全部,21_香港三级,22_日本三级,23_韩国三级,25_欧美三级,26_东南亚三级"
+      }
+    ],
+    "headerDesc": "协议头",
+    "headerInfo": {
+      "player": {
+        "6001": {
+          "headers": "Origin\u003dhttps://y22899cc.com_Referer\u003dhttps://y22899cc.com"
         },
-        "startConfigDesc": "启动页广告-720*1280",
-        "startConfig": [
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/7e871f24a05dfb73bec6be409fc819141173616536.jpg",
-                "imageForward": "http://www.fjued1.com"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/b16b338f5dd09eeed09f2e6652b8d622bb8847e5.jpg",
-                "imageForward": "http://www.kgjjr3.com"
-            },
-			{
-				"imageUrl": "https://i0.hdslb.com/bfs/album/35e034a2601ec02799c149239ca9d4fb8330b88b.jpg",
-				"imageForward": "http://www.jgrke5.com"
-			},
-			{
-                "imageUrl": "https://i0.hdslb.com/bfs/album/469b83f10b1174b6e59a1c1b77ca60ac67810aa2.png",
-                "imageForward": "https://mv757.com/"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/469b83f10b1174b6e59a1c1b77ca60ac67810aa2.png",
-                "imageForward": "http://www.kgjjr3.com"
-            }
-        ],
-        "shareContentDesc": "分享内容配置",
-        "dz1":"http://www.fesa56.us@http://www.sadw56.us@http://www.dasd61.us@http://www.hfdgg331.us@http://www.rfe3w600.us@http://www.rsxzf112.us@http://www.serf1936.us@http://www.ewr221.us@http://www.rdesv314.us@http://www.ewrsfv123.us@http://www.ewrfdxz511.us@http://www.fewfs464.us@http://www.ckqw156.us@http://www.gdsx611.us@http://www.htgfgt133.us@http://www.rdggf96.us@http://www.rtffh135.us@http://www.y6ggtu36.us@http://www.rdgtv469.us@http://www.ertrc266.us",
-		"dz2":"http://www.ljlun113.us@http://www.khnbk2123.us@http://www.hknbm511.us@http://www.ukijy611.us@http://www.yukjb212.us@http://www.hmyd331.us@http://www.jgtyg113.us@http://www.hjgfy6965.us@http://www.jgnv131.us@http://www.hgfh231.us@http://www.dfh6rt512.us@http://www.hfythg1145.us@http://www.rtfyf45.us@http://www.jgyeb69.us@http://www.jgynf64.us@http://www.kyeuh34.us@http://www.kueykj49.us@http://www.kuyeikh6.us@http://www.kjhue79.us@http://www.uyefid53.us",
-		"dz3":"http://www.zxds2.us@http://www.kgrt4.us@http://www.nnin8.us@http://www.kmzx9.us@http://www.gir10.us@http://www.kit13.us@http://www.lkj14.us@http://www.rio16.us@http://www.igt18.us@http://www.igt18.us@http://www.kgj19.us@http://www.kht20.us@http://www.zxds2.us@http://www.gir10.us@http://www.kgur5.us@http://www.iirj6.us@http://www.kit13.us@http://www.lkj14.us@http://www.rio16.us@http://www.igt18.us",
-		"dz4":"http://www.zxds2.us@http://www.kgrt4.us@http://www.nnin8.us@http://www.kmzx9.us@http://www.gir10.us@http://www.kit13.us@http://www.lkj14.us@http://www.rio16.us@http://www.igt18.us@http://www.igt18.us@http://www.kgj19.us@http://www.kht20.us@http://www.zxds2.us@http://www.gir10.us@http://www.kgur5.us@http://www.iirj6.us@http://www.kit13.us@http://www.lkj14.us@http://www.rio16.us@http://www.kgr17.us",
-        "shareContent": [
-            {
-                "content": ".22岁女人被抡，下APP兔费看65842步片\n\nAPP地止\n@1\n\n APP地止\n@2\n\n嫃人直播汏秀App\n@3\n\n在线看\n@4"
-            },
-            {
-                "content": "..23岁女人被抡，下APP兔费看51242步片\n\nAPP地止\n@1\n\n APP地止\n@2\n\n嫃人直播汏秀App\n@3\n\n在线看\n@4"
-            },
-            {
-                "content": ".23岁女人被抡，下APP兔费看42313步片\n\nAPP地止\n@1\n\n APP地止\n@2\n\n嫃人直播汏秀App\n@3\n\n在线看\n@4"
-            },
-            {
-                "content": "...25岁女人被抡，下APP兔费看23200步片\n\nAPP地止\n@1\n\n APP地止\n@2\n\n嫃人直播汏秀App\n@3\n\n在线看\n@4"
-            },
-            {
-                "content": ".26岁女人被抡，下APP兔费看83200步片\n\nAPP地止\n@1\n\n APP地止\n@2\n\n嫃人直播汏秀App\n@3\n\n在线看\n@4"
-            }
-        ],
-        "bannersDesc": "首页轮播广告图-700*300",
-        "banners": [
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/7d7932a40581b3cbded26f3a75cdd08c1173616536.jpg",
-                "imageForward": "http://www.fjued1.com"
-            },
-			{
-				"imageUrl": "https://i0.hdslb.com/bfs/album/b894eeca7ce807634a967ad209f99f2eff60df50.png",
-				"imageForward": "http://www.kgjjr3.com"
-			},
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/b973a69f68bd0b979e48c8b746a8c7e8def603c0.jpg",
-                "imageForward": "https://ygcg666.top/?channelCode=ygcg"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/da57209bf43063f895ea91c0e1e812d01008039606.jpg",
-                "imageForward": "https://ygcg555.top/?channelCode=ygcg"
-            },
-			{
-				"imageUrl": "https://i0.hdslb.com/bfs/album/922f2f182d040f33b070cf55a4bbb90286189945.jpg",
-				"imageForward": "http://www.jgrke5.com"
-			},
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/b894eeca7ce807634a967ad209f99f2eff60df50.png",
-                "imageForward": "https://mv757.com/"
-            }
-        ],
-        "adHomeListDesc": "首页列表广告配置-200*200",
-        "adHomeList": [
-            {
-                "adName": "金沙棋牌",
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/746edfd0c8773070072026c6a9a954eb1173616536.jpg",
-                "imageForward": "http://www.fjued1.com"
-            },
-            {
-                "adName": "月亮直播",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/83894639ffdd53ba664a4a61d58799ddbc7ff356.jpg",
-                "imageForward": "http://www.kgjjr3.com"
-            },
-            {
-                "adName": "璀璨直播",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/5b8914b96e7c0ad70e819e464c0a6ab1d4585d8e.png",
-                "imageForward": "https://mv757.com/"
-            },
-            {
-                "adName": "七七游戏",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/745403ca1b7b32d81307cf51fa903db7d92b20e7.jpg",
-                "imageForward": "http://www.jgrke5.com"
-            }
-        ],
-        "adListDesc": "列表广告配置-200*200",
-        "adList": [
-            {
-                "adName": "月亮直播-全国空降",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/83894639ffdd53ba664a4a61d58799ddbc7ff356.jpg",
-                "imageForward": "http://www.kgjjr3.com"
-            },
-            {
-                "adName": "金沙棋牌-国际大品牌",
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/746edfd0c8773070072026c6a9a954eb1173616536.jpg",
-                "imageForward": "http://www.fjued1.com"
-            },
-			{
-                "adName": "璀璨直播",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/5b8914b96e7c0ad70e819e464c0a6ab1d4585d8e.png",
-                "imageForward": "https://mv757.com/"
-            },
-			{
-                "adName": "七七游戏",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/745403ca1b7b32d81307cf51fa903db7d92b20e7.jpg",
-                "imageForward": "http://www.jgrke5.com"
-            },
-            {
-                "adName": "大秀成人直播",
-                "imageUrl": "https://i0.hdslb.com/bfs/album/6de98588d15224fc8a707cbe78ca32cc2ab85c09.png",
-                "imageForward": "https://ygcg666.top/?channelCode=ygcg"
-            }
-        ],
-        "adPlaysDesc": "片头广告图-700*400",
-        "adPlays": [
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/e7b9520eb4eb5e48de38bc09e8e649d2fe361213.png",
-                "imageForward": "https://mv757.com/"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/49b94de22a2e139ae1899eeb9286d3fa742d2724.jpg",
-                "imageForward": "http://www.kgjjr3.com"
-            },
-			{
-                "imageUrl": "https://i0.hdslb.com/bfs/album/f4b1cf7dc643581efe075b294e0095ab08397b92.jpg",
-                "imageForward": "http://www.jgrke5.com"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/9e6806455181b3461f6de7db190add841008039606.jpg",
-                "imageForward": "https://ygcg555.top/?channelCode=ygcg"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/new_dyn/2da912f5f1e40fdc2898973c155ca0151173616536.jpg",
-                "imageForward": "http://www.fjued1.com"
-            },
-            {
-                "imageUrl": "https://i0.hdslb.com/bfs/album/e7b9520eb4eb5e48de38bc09e8e649d2fe361213.png",
-                "imageForward": "https://ygcg666.top/?channelCode=ygcg"
-            }
-        ],
-        "shortVideoHot": {
-            "name": "最新",
-            "searchPlayUrl": "",
-            "searchUrl": "http://app.xp/app_2/vodRedBook?limit=10&uid=6900821"
+        "6002": {
+          "headers": "Origin\u003dhttps://y058058b.com_Referer\u003dhttps://y058058b.com_User-Agent\u003dMozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36"
         },
-        "shortVideoNew": {
-            "name": "热门",
-            "searchPlayUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/minivod/reqplay/%s",
-            "searchUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/minivod/reqlist?_t=1588697403168"
-        },
-        "homeHots": [
-			{
-                "id": "1002",
-                "name": "香蕉",
-                "desc": "aaa",
-                "tag": "香蕉",
-                "methor": "POST",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/3.png",
-                "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/3.png",
-                "searchPlayUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/vod/reqplay/%s",
-                "searchUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/",
-                "typeSearchUrl": "https://jdyo08x5y8dm8x8f0x2n.xiangxiangapps.com/",
-                "typeIsSplite": "1",
-                "typeListName": "10_角色扮演,9_素人出演,0_全部影片,6_清纯少女,7_辣妹大奶,8_女同专属,5_制服誘惑,11_成人动漫,12_人妻熟女,13_变态另类,14_经典伦理"
-            },
-			{
-                "id": "10001",
-                "name": "速播",
-                "desc": "aaa",
-                "tag": "速播",
-                "methor": "GET",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/6.jpg",
-                "imageUrl": "https://pv-oa-huawei.gioita.net",
-                "searchPlayUrl": "https://pv-oa-huawei.gioita.net",
-                "searchUrl": "https://api.pv123.app/",
-                "typeSearchUrl": "https://api.pv123.app/",
-                "typeIsSplite": "1",
-                "typeListName": "1_美少女,2_青春荡漾,3_放浪女孩,4_辣妹大奶,5_无码,6_集体性爱,58_中文字幕,8_各行各业,9_欧美AV,10_制服诱惑,11_人妻熟女,12_不伦乱伦,13_妄想写真,14_偷拍自拍,15_三级剧情,16_性感内衣,17_按摩桑拿,18_当红女优,19_素人,21_角色扮演,22_第一人称,23_女大学生,24_深夜综艺,25_帝王温暖"
-            },
-			{
-                "id": "2001",
-                "name": "榴莲",
-                "desc": "aaa",
-                "tag": "榴莲",
-                "methor": "GET",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/1.jpg",
-                "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/1.jpg",
-                "searchPlayUrl": "https://api.xrkapi004.xyz/api/videoplay/%s?uuid=fdfdsadasdass&device=0",
-                "searchUrl": "https://api.xrkapi004.xyz/",
-                "typeSearchUrl": "https://api.xrkapi004.xyz/",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部影片,30_小编推荐,52_国产剧情,10_国产自拍,1_高清无码,50_口交飲精,29_剧情,19_中文字幕,25_三级电影,32_外流视频,31_宅男福利,16_欧美AV,17_网红主播,21_翘臀美穴,11_长腿丝袜,45_淫亂職場,20_巨乳咪咪,4_角色扮演,40_師生淫亂,6_人妻熟女,14_H动漫,41_特工女警,42_護士醫生,43_近親相姦,24_AV素人,44_淫欲癡漢,48_有碼破壞,9_当红女优,5_制服诱惑,46_盜攝偷拍,33_明星专题,37_嫩模专区,36_259LUXU,22_青春萝莉,38_女同性爱,39_墨镜系列,23_重咸口味,51_ASMR系列"
-            },
-            {
-                "id": "2001",
-                "name": "美梦",
-                "desc": "aaa",
-                "tag": "美梦",
-                "methor": "GET",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/14.jpg",
-                "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/14.jpg",
-                "searchPlayUrl": "https://api.sgapi004.xyz/api/videoplay/%s?uuid=fdfdsadasdass&device=0",
-                "searchUrl": "https://api.sgapi004.xyz/",
-                "typeSearchUrl": "https://api.sgapi004.xyz/",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部影片,49_近親亂倫,45_職場上司,46_淫亂師生,47_強姦輪姦,10_國產自拍,60_精彩热门,1_高清無碼,31_宅男福利,57_中文無碼,55_精彩短片,32_外流視頻,9_當紅女優,11_長腿絲襪,5_制服誘惑,6_人妻熟女,16_歐美AV,17_網紅主播,23_重鹹口味,14_H動漫,24_AV素人,29_AV劇情,37_嫩模專區,4_角色扮演,22_青春蘿莉,51_淫蕩癡女,30_絲瓜推薦,44_苍老师,20_巨乳咪咪,38_女同性愛,39_魔鏡系列,25_三級電影,40_明星淫梦,52_電車之狼,53_偷拍盜攝,54_萌妹醬篇,59_中外合拍,56_鹿少女集,58_扶她姐妹,35_恐怖情色"
-            },
-            {
-                "id": "2001",
-                "name": "快看",
-                "desc": "aaa",
-                "tag": "快看",
-                "methor": "GET",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/5.png",
-                "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/5.png",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "searchPlayUrl": "https://api.cmapi004.xyz/api/videoplay/%s?uuid=fdfdsadasdass&device=0",
-                "searchUrl": "https://api.cmapi004.xyz/",
-                "typeSearchUrl": "https://api.cmapi004.xyz/",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部影片,28_國產自拍,64_性虐調教,63_自慰潮吹,57_家庭亂倫,65_3D动画,30_高清無碼,58_綠帽人妻,44_絕色佳人,36_AV歐美,37_網紅主播,33_制服誘惑,39_AV素人,32_H動漫,43_長腿絲襪,46_三級電影,52_草莓推薦,61_癡女淫娃,59_電車癡漢,62_精油汗汁,53_女同性爱,60_凌辱侵犯,56_明星淫夢,27_角色扮演,54_魔鏡系列,49_AV劇情,48_重鹹口味,38_美乳巨乳,66_人妖另类,51_恐怖情色,67_酒店偷拍,68_国产AV"
-            },
-            {
-                "id": "4001",
-                "name": "蜜蜂",
-                "desc": "aaa",
-                "tag": "蜜蜂",
-                "methor": "POST",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/9.png",
-                "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/9.png",
-                "searchPlayUrl": "http://az730099xj222.com/App/Movie/movieList?%s",
-                "searchUrl": "http://az730099xj222.com/",
-                "typeSearchUrl": "http://az730099xj222.com/",
-                "typeIsSplite": "1",
-                "typeListName": "0_最新影片,1_偷拍自拍,2_中文字幕,3_无码视频,4_高清有码,5_欧美大片,6_制服诱惑,7_网红主播"
-            },
-            {
-                "id": "4002",
-                "name": "秀色",
-                "desc": "aaa",
-                "tag": "秀色",
-                "methor": "POST",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/10.png",
-                "imageUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/10.png",
-                "searchPlayUrl": "https://api.blapi004.xyz/api/v1/video/videoinfo?uuid=ca6eefa147e96f48&device=0",
-                "searchUrl": "https://api.blapi004.xyz/",
-                "typeSearchUrl": "https://api.blapi004.xyz/",
-                "typeIsSplite": "1",
-                "typeListName": "0_最新视频,58_國產精品,29_AV劇情,44_職場同事,30_芭樂推薦,5_制服誘惑,6_人妻熟女,42_巨乳美乳,48_激情女教師,17_網紅主播,14_H動漫,16_歐美AV,1_高清無碼,54_飞机篇,25_三級電影,10_國產自拍,22_癡女萌娘,47_無碼破壞版,9_名優薈萃,46_癡漢聯盟,55_DRP? 出品,24_业余素人,49_捆綁調教,45_禁忌亂倫,52_风俗按摩,51_少女萝莉,32_外流視頻,37_嫩模專區,11_長腿絲襪,57_自慰噴水,40_明星淫梦,53_盜攝偷拍,4_角色扮演,43_群交淫亂,23_重鹹口味,38_女同性愛,36_259LUXU,56_人妖偽娘"
-            },
-            {
-                "id": "xkd_videos",
-                "name": "蜜桃",
-                "desc": "aaa",
-                "tag": "蜜桃",
-                "methor": "LOCAL",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/11.png",
-                "imageUrl": "https://www.lpsuxd.com/",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "searchPlayUrl": "https://x-iaok-d55.com/api/index.m3u8?m3u8=https://www.cljcqzz.com",
-                "searchUrl": "search%s",
-                "typeSearchUrl": "%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,10_国产精品,9_绝色佳人,43_家庭乱伦,51_国产AV,46_激情女教师,14_H动漫,35_人妻熟女,44_痴汉轮奸,37_制服诱惑,41_高清无码,25_三级电影,54_小编推荐,53_网红嫩模,40_美乳巨乳,47_绝顶痉挛,16_欧美激情,36_淫欲痴女,39_AV剧情,48_调教奴隶,50_女同性爱,38_风俗按摩,42_少女萝莉,52_偷拍盗摄"
-            },
-            {
-                "id": "hh_videos",
-                "name": "番茄",
-                "desc": "aaa",
-                "tag": "番茄",
-                "methor": "LOCAL",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/16.png",
-                "imageUrl": "https://www.lpsuxd.com/",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "searchPlayUrl": "https://sdghiosngldk.com/api/index.m3u8?m3u8=https://www.hfkuangshanche.com",
-                "searchUrl": "search%s",
-                "typeSearchUrl": "%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,10_国产精品,9_当红女优,16_欧美激情,14_H动漫,46_激情女教师,25_三级电影,37_制服丝袜,35_人妻熟女,38_风俗按摩,40_美乳巨乳,47_绝顶痉挛,41_高清无码,42_少女萝莉,43_家庭乱伦,44_痴汉轮奸,36_淫荡痴女,39_AV戏剧"
-            },
-            {
-                "id": "qk_videos",
-                "name": "七彩",
-                "desc": "aaa",
-                "tag": "七彩",
-                "methor": "LOCAL",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/13.png",
-                "imageUrl": "https://www.lpsuxd.com/",
-                "isOpen": "1",
-                "haveSearch": "1",
-                "searchPlayUrl": "https://ewgabrielaconstantine.com/api/index.m3u8?m3u8=https://www.hfkuangshanche.com",
-                "searchUrl": "search%s",
-                "typeSearchUrl": "%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,1_高清无码,35_国产AV,10_国产精品,14_H动漫,16_欧美激情,34_网红主播,18_家庭乱伦,5_制服诱惑,43_美乳巨乳,41_痴汉轮奸,23_重咸口味,44_女同性爱,25_三级电影,39_风俗按摩,36_痴女淫娃,40_AV剧情,9_绝色佳人,6_人妻熟女,38_绝顶潮吹,30_秋葵推荐,37_盗摄偷拍"
-            },
-            {
-                "id": "99999",
-                "name": "维护中",
-                "desc": "aaa",
-                "tag": "维护中",
-                "methor": "GET",
-                "isOpen": "0",
-                "haveSearch": "0",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/7.png",
-                "imageUrl": "",
-                "searchPlayUrl": "",
-                "searchUrl": "https://tr.olodool.com",
-                "typeSearchUrl": "https://tr.olodool.com",
-                "typeIsSplite": "1",
-                "typeListName": "110_角色扮演,111_成人动漫,112_人妻熟女"
-            },
-            {
-                "id": "WEB",
-                "name": "维护中",
-                "desc": "aaa",
-                "tag": "维护中",
-                "isVip": "0",
-                "isOpen": "0",
-                "haveSearch": "0",
-                "iconUrl": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/18.jpg",
-                "searchPlayUrl": "http://www.baidu.com"
-            }
-        ],
-        "areaItems": [
-            {
-                "id": "5001",
-                "name": "国产专区",
-                "desc": "aaa",
-                "tag": "国产专区",
-                "methor": "GET",
-                "isOpen": "1",
-                "imageUrl": "https://s.i438500.com/storage/",
-                "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video=%s&rate=360",
-                "searchUrl": "https://app.zuo-app.com/api/app/search/data?page=1&keyword=%s",
-                "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area=1&category=%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,10_自拍偷拍,11_网红主播,12_美腿丝袜,13_群交多P,14_车震野战"
-            },
-            {
-                "id": "5001",
-                "name": "日本专区",
-                "desc": "aaa",
-                "tag": "日本专区",
-                "methor": "GET",
-                "isOpen": "1",
-                "imageUrl": "https://s.i438500.com/storage/",
-                "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video=%s&rate=360",
-                "searchUrl": "https://app.zuo-app.com/api/app/search/data?page=1&keyword=%s",
-                "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area=2&category=%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,1_素人,2_清纯萝莉,3_熟女少妇,4_性感丝袜,6_巨乳,7_强奸轮奸,8_角色扮演,9_捆绑SM,32_美少女,33_群交多P,34_近亲相奸"
-            },
-            {
-                "id": "5001",
-                "name": "欧美专区",
-                "desc": "zoushou",
-                "tag": "欧美专区",
-                "methor": "GET",
-                "isOpen": "1",
-                "imageUrl": "https://s.i438500.com/storage/",
-                "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video=%s&rate=360",
-                "searchUrl": "https://app.zuo-app.com/api/app/search/data?page=1&keyword=%s",
-                "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area=3&category=%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,15_唯美系列,16_黑人洋妞,17_双飞群P,18_女同性恋,19_内衣丝袜,30_欧美激情"
-            },
-            {
-                "id": "5001",
-                "name": "三级专区",
-                "desc": "zoushou",
-                "methor": "GET",
-                "tag": "三级专区",
-                "isOpen": "1",
-                "imageUrl": "https://cdn-zuo-app-storage.cdn.bcebos.com/storage/",
-                "searchPlayUrl": "https://zuo-sex.live/api/app/m3u8/video.m3u8?video=%s&rate=360",
-                "searchUrl": "https://app.zuo-app.com/api/app/search/data?page=1&keyword=%s",
-                "typeSearchUrl": "https://zuo-sex.live/api/app/area/data?area=6&category=%s",
-                "typeIsSplite": "1",
-                "typeListName": "0_全部,21_香港三级,22_日本三级,23_韩国三级,25_欧美三级,26_东南亚三级"
-            }
-        ],
-        "headerDesc": "协议头",
-        "headerInfo": {
-            "player": {
-                "6001": {
-                    "headers": "Origin=https://y22899cc.com_Referer=https://y22899cc.com"
-                },
-                "6002": {
-                    "headers": "Origin=https://y058058b.com_Referer=https://y058058b.com_User-Agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.87 Safari/537.36"
-                },
-                "10001": {
-                    "headers": "Origin=https://android.pv123.app_Referer=https://android.pv123.app"
-                }
-            },
-            "image": {
-                "6001": {
-                    "headers": "Origin=https://y22899cc.com_Referer=https://y22899cc.com"
-                },
-                "6002": {
-                    "headers": "Origin=https://y058058b.com_Referer=https://y058058b.com"
-                },
-                "10001": {
-                    "headers": "Origin=https://android.pv123.app_Referer=https://android.pv123.app"
-                }
-            }
+        "10001": {
+          "headers": "Origin\u003dhttps://android.pv123.app_Referer\u003dhttps://android.pv123.app"
         }
+      },
+      "image": {
+        "6001": {
+          "headers": "Origin\u003dhttps://y22899cc.com_Referer\u003dhttps://y22899cc.com"
+        },
+        "6002": {
+          "headers": "Origin\u003dhttps://y058058b.com_Referer\u003dhttps://y058058b.com"
+        },
+        "10001": {
+          "headers": "Origin\u003dhttps://android.pv123.app_Referer\u003dhttps://android.pv123.app"
+        }
+      }
     }
+  }
 }
+
