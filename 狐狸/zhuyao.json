@@ -1,0 +1,227 @@
+{
+  "config": {
+    "umengAppKey": "123dassdasg",
+    "umengChannel": "umeng",
+    "videoTabUrl": "https://nxjaa1928.hulixx.xyz/siwazy1/list.php",
+    "livePlatformUrl": "http://api.hclyz.com:81/mf/json.txt",
+    "liveRoomUrl": "http://api.hclyz.com:81/mf/",
+    "buyUrl": "http://6-y.cn/HMz425",
+    "searchUrl": [
+      {
+        "name": "香蕉视频",
+        "url": "https://nxjaa1928.hulixx.xyz/xjzy//listserch.php?w\u003d%s"
+      },
+      {
+        "name": "丝袜引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/siwazy1/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "花魁资源",
+        "url": "https://nxjaa1928.hulixx.xyz/huakuizy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "热巴引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/rebazy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "秋葵引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/qiukuizy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "老鸭视频",
+        "url": "https://nxjaa1928.hulixx.xyz/laoyazy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "秀色引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/xiusezy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "色窝引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/sewozy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "奶茶引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/naichazy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "美少女引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/msnzy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "草莓视频",
+        "url": "https://nxjaa1928.hulixx.xyz/caomeizy/listserch.php?w\u003d%s"
+      },
+      {
+        "name": "乐播引擎",
+        "url": "https://nxjaa1928.hulixx.xyz/lebozy/listserch.php?w\u003d%s"
+      }
+    ],
+    "searchHotKeyword": [
+      "圣诞",
+      "乳交",
+      "吹潮",
+      "中文字幕",
+      "高颜值",
+      "主播",
+      "内射",
+      "身材",
+      "黑人",
+      "粉嫩"
+    ],
+    "resourceList": [
+      {
+        "name": "丝袜资源",
+        "icon": "https://img.chinasongzhuang.cn/uploadimg/ico/2020/0814/1597375073633243.jpg",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/siwazy1/list.php"
+      },
+      {
+        "name": "花魁资源",
+        "icon": "https://nxjaa1928.hulixx.xyz/huakuizy/huakui.jpg",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/huakuizy/list.php"
+      },
+      {
+        "name": "热巴视频",
+        "icon": "https://nxjaa1928.hulixx.xyz/rebazy/logo.png",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/rebazy/list.php"
+      },
+      {
+        "name": "老鸭视频",
+        "icon": "http://helplaoyazy.com/favicon.ico",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/laoyazy/list.php"
+      },
+      {
+        "name": "草莓视频",
+        "icon": "https://nxjaa1928.hulixx.xyz/caomeizy/caomei.png",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/caomeizy/list.php"
+      },
+      {
+        "name": "美少女资源",
+        "icon": "https://nxjaa1928.hulixx.xyz/msnzy/msn.png",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/msnzy/list.php"
+      },
+      {
+        "name": "秀色视频",
+        "icon": "https://www.52maicong.com/uploads/202106/60c32ce189341.png",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/xiusezy/list.php"
+      },
+      {
+        "name": "香蕉视频",
+        "icon": "https://www.mitaoapp.cc/xjsp.png",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz//xjzy//list.php"
+      },
+      {
+        "name": "葡萄视频",
+        "icon": "https://imgs.yinxiao.net/uploadfile/2021/0512/20210512104034317.jpg",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/putaozy/list.php"
+      },
+      {
+        "name": "色窝视频",
+        "icon": "https://nxjaa1928.hulixx.xyz/sewozy/favicon.ico",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/sewozy/list.php"
+      },
+      {
+        "name": "熊盒子",
+        "icon": "image.woozooo.com/image/ico/2022/08/15/78348984-21.jpg?x-oss-process\u003dimage/auto-orient,1/resize,m_fill,w_150,h_150/format,png",
+        "type": 2,
+        "url": "https://xoicn.lanzouw.com/ivp6m09m9fne"
+      },
+      {
+        "name": "乐播视频",
+        "icon": "http://lebozy9.com/favicon.ico",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/lebozy/list.php"
+      },
+      {
+        "name": "月色资源",
+        "icon": "https://nxjaa1928.hulixx.xyz/aosikazy/favicon.ico",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/aosikazy/list.php"
+      },
+      {
+        "name": "辣椒视频",
+        "icon": "https://img1.duote.com/duoteimg/dtnew_softup_img/202110/20211016062455_26226.jpg",
+        "type": 0,
+        "url": "https://nxjaa1928.hulixx.xyz/lajiaozy/list.php"
+      },
+      {
+        "name": "青兔直播",
+        "icon": "https://sgj1.cc/images/sgj156.gif",
+        "type": 2,
+        "url": "https://xoicn.lanzouw.com/tp/iXwKV0gutkhi"
+      },
+      {
+        "name": "Pa影视",
+        "icon": "https://www.mitaoapp.cc/162561352347907867213.gif",
+        "type": 2,
+        "url": "https://xoicn.lanzouw.com/tp/iE75k0ifb8ha"
+      }
+    ],
+    "resourceList2": [],
+    "banner": [
+      {
+        "name": "招租广告",
+        "image": "https://www.helloimg.com/images/2022/09/26/Z8NdHn.png",
+        "url": "https://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/xuanshang/index.html"
+      }
+    ],
+    "playerBanner": [
+      {
+        "name": "",
+        "image": "https://www.helloimg.com/images/2022/09/26/Z8N0Cz.png",
+        "url": "https://static-225b3a82-bbe6-4428-b415-af82caa307b5.bspapp.com/rw/elm/index.html"
+      }
+    ],
+    "appList": [
+      {
+        "name": "软件合集",
+        "icon": "https://www.mitaoapp.cc/162561352347907867213.gif",
+        "url": "http://6-y.cn/HMz425"
+      },
+      {
+        "name": "假期赚钱",
+        "icon": "http://shp.qpic.cn/collector/1766105000/afee2658-e2e4-4701-9b87-f6f76ee55e80/0",
+        "url": "http://6-y.cn/HMAsi5"
+      },
+      {
+        "name": "饿了么干饭",
+        "icon": "http://shp.qpic.cn/collector/1766105000/630bd058-e974-4b33-be65-c65c317d1ece/0",
+        "url": "http://6-y.cn/HMAsDC"
+      },
+      {
+        "name": "西瓜太郎",
+        "icon": "https://www.mitaoapp.cc/sgj156.gif",
+        "url": "http://6-y.cn/HMAsi5"
+      }
+    ],
+    "startImage": "http://shp.qpic.cn/collector/1210500178/567a88e4-34cc-4511-85fe-46b15de33878/0",
+    "startUrl": "http://6-y.cn/HMz425",
+    "share": {
+      "content": "各大人气女优！各类精彩大片！全部免费看！点击立即下载!",
+      "title": "午夜影院 官网:www.xoicn.cn",
+      "image": "https://img2.woyaogexing.com/2018/10/12/3106e2ec523742878d21220755ceee42!400x400.jpeg",
+      "url": "http://6-y.cn/HMz425",
+      "downUrl": "http://6-y.cn/HMAMjD",
+      "invitationUrl": "https://www.mitaoapp.cc/Invitation.php",
+      "notShareUrl": "http://6-y.cn/HMAMjD"
+    },
+    "feedbackUrl": "https://www.mitaoapp.cc/feedback.php",
+    "update": {
+      "versionCode": "3",
+      "downUrl": "http://6-y.cn/HMz425",
+      "downUrl2": "http://6-y.cn/HMz425",
+      "msg": "1.修復BUG",
+      "mode": 2,
+      "force": false
+    }
+  }
+}
