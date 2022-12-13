@@ -106,8 +106,8 @@
   "api": [
     {
       "mz": "丝瓜视频[秒播]",
-      "dz": "https://api3.ffudingdang.com:9002/api/sigua.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/丝瓜.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/sigua.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/丝瓜.png",
       "tg": 20000,
       "ck": "视频",
       "sj": "\u0026sj\u003d1",
@@ -116,7 +116,7 @@
     },
     {
       "mz": "榴莲视频[秒播]",
-      "dz": "https://api3.ffudingdang.com:9002/api/liulian.php",
+      "dz": "https://api4.ffudingdang.com:9002/api/liulian.php",
       "tp": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/1.jpg",
       "tg": 0,
       "ck": "视频",
@@ -126,7 +126,7 @@
     },
     {
       "mz": "快看视频[秒播]",
-      "dz": "https://api3.ffudingdang.com:9002/api/kuaikan.php",
+      "dz": "https://api4.ffudingdang.com:9002/api/kuaikan.php",
       "tp": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/5.png",
       "tg": 0,
       "ck": "视频",
@@ -136,7 +136,7 @@
     },
     {
       "mz": "美梦视频[秒播]",
-      "dz": "https://api3.ffudingdang.com:9002/api/meimeng.php",
+      "dz": "https://api4.ffudingdang.com:9002/api/meimeng.php",
       "tp": "https://xtb-1302641893.cos.ap-nanjing.myqcloud.com/14.jpg",
       "tg": 0,
       "ck": "视频",
@@ -146,8 +146,8 @@
     },
     {
       "mz": "金蕉视频[秒播]",
-      "dz": "https://api3.ffudingdang.com:9002/api/xiangjiao.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/金蕉.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/xiangjiao.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/金蕉.png",
       "tg": 25000,
       "ck": "视频",
       "sj": "\u0026sj\u003d1",
@@ -156,8 +156,8 @@
     },
     {
       "mz": "森林视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/senlin.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/senlin.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/senlin.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/senlin.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -166,8 +166,8 @@
     },
     {
       "mz": "色猫视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/semao.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/xiuse.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/semao.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/xiuse.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -176,8 +176,8 @@
     },
     {
       "mz": "奥斯卡视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/aosika.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/jinlian.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/aosika.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/jinlian.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -186,8 +186,8 @@
     },
     {
       "mz": "玉兔视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/yutu.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/yutu.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/yutu.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/yutu.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -196,8 +196,8 @@
     },
     {
       "mz": "花魁视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/huakui.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/huakui.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/huakui.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/huakui.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -206,8 +206,8 @@
     },
     {
       "mz": "秀色视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/xiuse.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/蜜桃.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/xiuse.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/蜜桃.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -216,8 +216,8 @@
     },
     {
       "mz": "老鸭视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/laoya.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/老鸭.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/laoya.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/老鸭.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -226,8 +226,8 @@
     },
     {
       "mz": "探探视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/tantan.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/966.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/tantan.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/966.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -236,8 +236,8 @@
     },
     {
       "mz": "裤兜视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/kudou.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/kudou.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/kudou.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/kudou.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -246,8 +246,8 @@
     },
     {
       "mz": "芒果视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/mangguo.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/mangguo.ico",
+      "dz": "https://api4.ffudingdang.com:9002/api/mangguo.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/mangguo.ico",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -256,7 +256,7 @@
     },
     {
       "mz": "色窝视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/sewo.php",
+      "dz": "https://api4.ffudingdang.com:9002/api/sewo.php",
       "tp": "https://sewozyapi.com/favicon.ico",
       "tg": 0,
       "ck": "视频",
@@ -266,7 +266,7 @@
     },
     {
       "mz": "葡萄视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/putao.php",
+      "dz": "https://api4.ffudingdang.com:9002/api/putao.php",
       "tp": "https://imgs.yinxiao.net/uploadfile/2021/0512/20210512104034317.jpg",
       "tg": 0,
       "ck": "视频",
@@ -276,8 +276,8 @@
     },
     {
       "mz": "佳丽视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/jiali.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/佳丽.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/jiali.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/佳丽.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d1",
@@ -286,8 +286,8 @@
     },
     {
       "mz": "人鱼视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/shayu.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/人鱼.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/shayu.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/人鱼.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -296,8 +296,8 @@
     },
     {
       "mz": "草莓视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/caomeizyw.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/caomei.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/caomeizyw.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/caomei.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -306,8 +306,8 @@
     },
     {
       "mz": "奶茶视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/naicha.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/玖玖.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/naicha.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/玖玖.png",
       "tg": 0,
       "ck": "视频",
       "sj": "\u0026sj\u003d0",
@@ -316,8 +316,8 @@
     },
     {
       "mz": "秋葵视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/qiukui.php",
-      "tp": "https://api3.ffudingdang.com:9002/icon/秋葵.png",
+      "dz": "https://api4.ffudingdang.com:9002/api/qiukui.php",
+      "tp": "https://api4.ffudingdang.com:9002/icon/秋葵.png",
       "tg": 16000,
       "ck": "视频",
       "sj": "\u0026sj\u003d1",
@@ -329,7 +329,7 @@
   "sousuo": [
     {
       "mz": "丝瓜视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/sigua.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/sigua.php?w\u003d",
       "tg": 20000,
       "sj": "\u0026sj\u003d1",
       "hqurl": "2ji",
@@ -337,7 +337,7 @@
     },
     {
       "mz": "榴莲视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/liulian.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/liulian.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "2ji",
@@ -345,7 +345,7 @@
     },
     {
       "mz": "快看视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/kuaikan.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/kuaikan.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "2ji",
@@ -353,7 +353,7 @@
     },
     {
       "mz": "美梦视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/meimeng.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/meimeng.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "2ji",
@@ -361,7 +361,7 @@
     },
     {
       "mz": "秀色视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/xiuse.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/xiuse.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -369,7 +369,7 @@
     },
     {
       "mz": "金蕉视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/xiangjiao.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/xiangjiao.php?w\u003d",
       "tg": 25000,
       "sj": "\u0026sj\u003d1",
       "hqurl": "2ji",
@@ -377,7 +377,7 @@
     },
     {
       "mz": "森林视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/senlin.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/senlin.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -385,7 +385,7 @@
     },
     {
       "mz": "色猫视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/semao.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/semao.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -393,7 +393,7 @@
     },
     {
       "mz": "奥斯卡视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/aosika.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/aosika.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -401,7 +401,7 @@
     },
     {
       "mz": "玉兔视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/yutu.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/yutu.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -409,7 +409,7 @@
     },
     {
       "mz": "花魁视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/huakui.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/huakui.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -417,7 +417,7 @@
     },
     {
       "mz": "老鸭视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/laoya.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/laoya.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -425,7 +425,7 @@
     },
     {
       "mz": "探探视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/tantan.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/tantan.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -433,7 +433,7 @@
     },
     {
       "mz": "裤兜视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/kudou.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/kudou.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -441,7 +441,7 @@
     },
     {
       "mz": "芒果视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/mangguo.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/mangguo.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -449,7 +449,7 @@
     },
     {
       "mz": "色窝视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/sewo.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/sewo.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -457,7 +457,7 @@
     },
     {
       "mz": "葡萄视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/putao.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/putao.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -465,7 +465,7 @@
     },
     {
       "mz": "佳丽视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/jiali.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/jiali.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -473,7 +473,7 @@
     },
     {
       "mz": "人鱼视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/shayu.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/shayu.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -481,7 +481,7 @@
     },
     {
       "mz": "草莓视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/caomeizyw.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/caomeizyw.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -489,7 +489,7 @@
     },
     {
       "mz": "奶茶视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/naicha.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/naicha.php?w\u003d",
       "tg": 0,
       "sj": "\u0026sj\u003d1",
       "hqurl": "0",
@@ -497,7 +497,7 @@
     },
     {
       "mz": "秋葵视频",
-      "dz": "https://api3.ffudingdang.com:9002/api/qiukui.php?w\u003d",
+      "dz": "https://api4.ffudingdang.com:9002/api/qiukui.php?w\u003d",
       "tg": 16000,
       "sj": "\u0026sj\u003d1",
       "hqurl": "2ji",
