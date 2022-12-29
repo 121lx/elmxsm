@@ -1,0 +1,44 @@
+{
+  "banner": [],
+  "extra": [],
+  "launch": {
+  "image": "https://ewr1.vultrobjects.com/aaa/wh_l1.jpg",
+    "name": "神赚棋牌",
+    "targetUrl": "http://txfile-30121.sz.gfp.tencent-cloud.com/1660355979172_11402551_71fc7bca6b6b6a1f4abe74afebdb8cf7.apk"
+    },
+  "launchs": [],
+  "lanzou": [
+    "http://6-y.cn/HMz425",
+    "http://6-y.cn/HMz425"
+  ],
+  "config": {
+    "XG_APP": "https://xoicn.lanzouw.com/b04ow173c"
+  },
+  "task": {
+    "name": "开端棋牌",
+    "url": "http://6-y.cn/HMAMjD",
+    "intro": "最好的娱乐平台",
+    "packageName": "www.xoicn.cn",
+    "lockType": 17
+  },
+  "tasks": [
+    {
+      "name": "开端棋牌",
+      "url": "http://6-y.cn/HMAMjD",
+      "intro": "最好的娱乐平台",
+      "packageName": "www.xoicn.cn"
+    },
+    {
+      "name": "世博体育",
+      "url": "http://6-y.cn/HMAMjD",
+      "intro": "体育竞技平台",
+      "packageName": "www.xoicn.cn"
+    }
+  ],
+  "iosShare": "http://6-y.cn/HMz425",
+  "updateNotice": "http://6-y.cn/HMz425",
+  "notice": "我们承诺永不收费、无观影限制，请放心使用。",
+  "noticeNo": 25,
+  "versionNo": 22,
+  "force": true
+}
