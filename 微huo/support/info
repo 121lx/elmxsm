@@ -1,0 +1,39 @@
+{
+
+  "code": 0,
+
+  "data": {
+
+    "bottom": {
+
+      "enable": false,
+
+      "image": "http://mhggp.xyz/gif/top.gif",
+
+      "url": "https://b2761.com:8663"
+
+    },
+
+    "start": {
+
+      "enable": false,
+
+      "image": "http://mhggp.xyz/gif/start.jpg",
+
+      "url": "https://b2761.com:8663"
+
+    },
+
+    "top": {
+
+      "enable": false,
+
+      "image": "http://mhggp.xyz/gif/top.gif",
+
+      "url": "https://b2761.com:8663"
+
+    }
+
+  }
+
+}
