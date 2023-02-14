@@ -1,0 +1,45 @@
+{
+  "版本号": "3.0",
+  "更新内容": "本视频永久免费\n修复了香蕉资源播放不了\n优化分类布局\n下载地址http://cloud.ananas.chaoxing.com/view/fileviewDownload?objectId\u003d4f72b802c071cbbb01c33654c5b72e78",
+  "Apk地址": "https://xoicn.lanzouw.com/b04owv1ra",
+  "Apk地址2": "http://cloud.ananas.chaoxing.com/view/fileviewDownload?objectId\u003d4f72b802c071cbbb01c33654c5b72e78",
+  "data": [
+    {
+      "http": "https://sewodemo.com"
+    },
+    {
+      "http": "https://ios.bxguwen.com"
+    },
+    {
+      "http": "https://vip.aqdz105.com"
+    },
+    {
+      "http": "http://api.xmdsyey.com/openapi"
+    }
+  ],
+  "data2": [
+    {
+      "http": "http://ios.bxguwen.com"
+    }
+  ],
+  "guanggao": [
+    {
+      "pd": "搜索",
+      "name": "玩偶姐姐",
+      "icon": "https://860hy37m.imgxj2.cc:44331/202104/a6/8606e29bad57b0003f80735f0eda52a6.jpg",
+      "http": ""
+    },
+    {
+      "pd": "搜索",
+      "name": "柚子猫",
+      "icon": "https://860hy37m.imgxj2.cc:44331/202206/49/262a602f4ac7e60426cf1becc105ba49.jpg",
+      "http": ""
+    },
+    {
+      "pd": "搜索",
+      "name": "妮可爱",
+      "icon": "https://860hy37m.imgxj2.cc:44331/202206/77/862a5f0a2c0f3603d1afab34f11cb077.jpg",
+      "http": ""
+    }
+  ]
+}
