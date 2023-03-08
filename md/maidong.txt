@@ -1,14 +1,14 @@
 {
 	"data": {
 		"startPicture": "http://md7.me/img/0.png",
-		"startAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"startAddress": "https://121.lanzouw.com/b04pno07e",
 		"startTime": "5",
 		"officialWebsiteInformation": "脉动1.6",
 		"feedBack": "https://jq.qq.com/?_wv=1027&k=MGgdeUk4",
-		"officialGroupChat": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"officialGroupChat": "https://121.lanzouw.com/b04pno07e",
 		"latestVersion": "1.6",
-		"updateContent": "1.新增视频收藏，播放历史，视频快进，请更新至1.4版本rnrn如安装不了请先卸载老版本，rn地址：https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
-		"updateAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"updateContent": "1.新增视频收藏，播放历史，视频快进，请更新至1.4版本rnrn如安装不了请先卸载老版本，rn地址：https://121.lanzouw.com/b04pno07e",
+		"updateAddress": "https://121.lanzouw.com/b04pno07e",
 		"liveMode": "0",
 		"liveBroadcastaInterface": "http://api.hclyz.com:81/mf/json.txt",
 		"hostInterface": "http://api.hclyz.com:81/mf/",
@@ -20,30 +20,30 @@
 		"shareControl": "0",
 		"shareTutorials": "https://www.buhuibaidu.me/?s=怎么把软件加入白名单",
 		"sharingMode": "0",
-		"shareText": "老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有rn下载地址：https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"shareText": "老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有rn下载地址：https://121.lanzouw.com/b04pno07e",
 		"sharingTimes": "3",
-		"shareAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"shareAddress": "https://121.lanzouw.com/b04pno07e",
 		"sharePictures": "https://static.woozooo.com/ico/2021/09/08/51684497-51.jpg",
-		"shareContent": "老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有rn下载地址：https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"shareContent": "老司机分享福利软件 安装即可免费观看的看片APP 十万片源应有尽有rn下载地址：https://121.lanzouw.com/b04pno07e",
 		"shareTitle": "脉动视频 永久免费",
 		"popUpAdTitle": "楼凤外围上门",
 		"popUpAdvertisingContent": "全国支持600➕城市空降上门rn少妇 萝莉 空姐 学生 等等 不闲聊rn不扯皮 价格800至3000不等rn【注明】不接未成年 只出台 需要可滴滴 五年口碑信誉靠谱",
-		"popUpAdvertisingAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"popUpAdvertisingAddress": "https://121.lanzouw.com/b04pno07e",
 		"videoBroadcastAdvertisingPictures": "http://md7.me/img/lb.gif",
-		"videoBroadcastAdAddress": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
-		"liveBbroadcastAdvertising": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600",
+		"videoBroadcastAdAddress": "https://121.lanzouw.com/b04pno07e",
+		"liveBbroadcastAdvertising": "https://121.lanzouw.com/b04pno07e",
 		"liveAdvertisingScreening": "包赔——.mp4——m3u8——hynhwz.cn——zyfktg.cn——jshfgy.cn——.mp4——gabion01——huanjitec——ttl98——widtb——xodmasnje——uyxqqq——wss2248264751——huahai58——hynht——g13352.cn——topse.xldkpjh.info——wefew.13352.cn——playqn.315og.com——xasy-edu.com——12345678022.com——.MP4——百家乐——实力——带飞——selldining——sljyvnx——121.204.253.102——lyyjglj——wpegnb1——liuzhuan——ookjisopxlss���—zeker62————————————"
 	},
 	"homepageAds": [
 		{
 			"title": "同城约炮",
 			"img": "https://md7.me/img/photo_2022-10-28_17-40-09.jpg",
-			"url": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600"
+			"url": "https://121.lanzouw.com/b04pno07e"
 		},
 		{
 			"title": "色中色",
 			"img": "https://md7.me/img/sis2022.png",
-			"url": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600"
+			"url": "https://121.lanzouw.com/b04pno07e"
 		},
 		{
 			"title": "蜜桃",
@@ -321,13 +321,13 @@
 	"liveAdvertising": [
 		{
 			"title": "轮播广告1",
-			"img": "https://md7.me/img/tg.png",
-			"url": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600"
+			"img": "http://shp.qpic.cn/collector/1210500178/87f3dd79-9835-4b8a-9413-82ed08855382/0",
+			"url": "https://121.lanzouw.com/b04pno07e"
 		},
 		{
 			"title": "轮播2",
-			"img": "https://md7.me/img/lb.gif",
-			"url": "https://cool-freesia-2bd.notion.site/6-0-55d8dcd0d63d4addb7270cd3e8110600"
+			"img": "http://shp.qpic.cn/collector/1210500178/87f3dd79-9835-4b8a-9413-82ed08855382/0",
+			"url": "https://121.lanzouw.com/b04pno07e"
 		}
 	]
 }
