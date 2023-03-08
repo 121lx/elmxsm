@@ -3,26 +3,26 @@
 		{
 
 			"title": "定做程序点击咨询",
-			"img": "http://23.224.128.46:8085//zhaozu1.jpg",
-			"url": "http://6-y.cn/HMz425"
+			"img": "http://shp.qpic.cn/collector/1210500178/87f3dd79-9835-4b8a-9413-82ed08855382/0",
+			"url": "https://121.lanzouw.com/b04pno07e"
 		},
 {
 
 			"title": "定做程序点击咨询",
-			"img": "http://23.224.128.46:8085//zhaozu2.jpg",
-			"url": "http://6-y.cn/HMz425"
+			"img": "http://shp.qpic.cn/collector/1210500178/87f3dd79-9835-4b8a-9413-82ed08855382/0",
+			"url": "https://121.lanzouw.com/b04pno07e"
 		},
 {
 
 			"title": "定做程序点击咨询",
-			"img": "http://23.224.128.46:8085///xiazai1.jpg",
-			"url": "http://6-y.cn/HMz425"
+			"img": "http://shp.qpic.cn/collector/1210500178/87f3dd79-9835-4b8a-9413-82ed08855382/0",
+			"url": "https://121.lanzouw.com/b04pno07e"
 		},
 {
 
 			"title": "定做程序点击咨询",
-			"img": "http://23.224.128.46:8085///xiazai5.jpg",
-			"url": "http://6-y.cn/HMz425"
+			"img": "http://shp.qpic.cn/collector/1210500178/87f3dd79-9835-4b8a-9413-82ed08855382/0",
+			"url": "https://121.lanzouw.com/b04pno07e"
 		}
 		
 	]
