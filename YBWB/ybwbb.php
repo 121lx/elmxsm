@@ -1,7 +1,7 @@
 {
   "data": {
     "版本号": "9999",
-    "更新地址": "http://6-y.cn/HMz425",
+    "更新地址": "https://121.lanzouw.com/b04pno07e",
     "更新内容": "更新了，更新了",
     "公告内容": "\u003cp\u003e\r\n\t\u003cspan style\u003d\"color: #C00000;\"\u003e欢迎你一直使用熊盒子旗下破解版我们总合集，\u003ca href\u003d\"http://6-y.cn/HMz5Uz\" target\u003d\"_self\" style\u003d\"text-decoration: underline; color: rgb(255, 0, 0);\"\u003e\u003cspan style\u003d\"color: #FF0000;\"\u003e点我访问\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\r\n\u003c/p\u003e\r\n\u003cp\u003e\r\n\u003c/p\u003e\r\n\u003cp\u003e\r\n\t\u003cspan style\u003d\"color: #974806;\"\u003e如果与我们旗下app，加入我们官方资源Q群，防止失联，一切非我们原创，都源于网络搜集破解\u003ca href\u003d\"http://6-y.cn/HMz425\" target\u003d\"_self\" style\u003d\"color: rgb(227, 108, 9); text-decoration: underline;\"\u003e\u003cspan style\u003d\"color: #E36C09;\"\u003e点我打开官网\u003c/span\u003e\u003c/a\u003e\u003c/span\u003e\r\n\u003c/p\u003e\r\n\u003cp\u003e\r\n\u003c/p\u003e\r\n\u003cp\u003e\r\n\t\u003cspan style\u003d\"color: #4F6128;\"\u003e感谢一路对熊盒子支持，by大白(●––●)\u003c/span\u003e\r\n\u003c/p\u003e",
     "更新方式": "0",
