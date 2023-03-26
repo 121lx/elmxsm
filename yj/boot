@@ -1,0 +1,25 @@
+{
+  "err": 0,
+  "msg": "",
+  "ext": {
+    "android": {
+      "app": "yj",
+      "ver": "48",
+      "url": "",
+      "lockUpdate": "1",
+      "updateMsg": "4.7",
+      "notice": {
+        "title": null,
+        "url": ""
+      },
+      "api": "https://www.yjav.tv/api/v1/",
+      "live": "",
+      "splash": ".png",
+      "splashUrl": ".png",
+      "splashTime": "0",
+      "adv": "",
+      "tags": "",
+      "vipStatus": ""
+    }
+  }
+}
