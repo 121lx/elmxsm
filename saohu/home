@@ -1,0 +1,37 @@
+{
+  "config": {
+    "versionCode": "1.0.0",
+    "updatecontent": "更新啦",
+    "updateurl": "https://123.lanzouw.com/b04pno07e",
+    "DSSnoff": false,
+    "DSSadpic": "https://www.myshare.cc/i/2023/03/21/6419871eb9ff3.gif",
+    "DSSadurl": "https://123.lanzouw.com/b04pno07e",
+    "noticeoff": false,
+    "noticecontent": "无",
+    "noticecurl": "无",
+    "owe": "无",
+    "Shareurl": "🈚"
+  },
+  "list": [
+    {
+      "type": 5,
+      "name": "    ",
+      "pic": ".png",
+      "url": "URL"
+    }
+  ],
+  "Carousel": [
+    {
+      "picture": "png",
+      "browser": true,
+      "url": "url"
+    }
+  ],
+  "videoCarousel": [
+    {
+      "pic": "png",
+      "browser": true,
+      "url": "url"
+    }
+  ]
+}
